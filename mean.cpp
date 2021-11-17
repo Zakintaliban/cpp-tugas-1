@@ -57,4 +57,6 @@ int main()
     cout << " dengan NIM " << nim;
     cout << "\nRata-rata adalah : " << ratarata;
     cout << "\nGrade: " << grade;
+
+    return 0;
 }
