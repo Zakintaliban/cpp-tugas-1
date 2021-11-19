@@ -30,3 +30,18 @@ int main()
 
     return 0;
 }
+
+// iostream merupakan singkatan dari Input/Output Stream. biasanya juga disingkat sbg I/O Stream.
+// string sebenarnya merupakan penggunaan tipe data char secara berkelompok menjadikan sebuah kata atau kalimat
+// kita menggunakan string pada variabel nama dikarenakan, huruf hanya bisa digunakan pada string
+// using namespace std bertugas untuk meminimalisir kesalahan akbiat tidak dikenalinya fungsi cout dan cin apabila dalam penulisan secara langsung. 
+// int main() adalah fungsi utama sebagai starting point untuk program c/c++,
+// kita menggunakan integer pada variabel umur dikarenakan, umur digunakan dengan integer
+// kita menggunakan string pada variabel lahir dikarenakan, huruf hanya bisa digunakan pada string
+// kita menggunakan float pada variabel berat dikarenakan, angka pada berat detil sehingga diperlukan angka dengan komaan
+// Fungsi cout adalah fungsi standar pada C++ untuk menampilkan output ke layar
+// Fungsi cin adalah fungsi standar pada C++ untuk melakukan input ke layar
+// solusi untuk menginput lebih dari satu kata (menggunakan spasi), dapat di gunakan perintah getline ()
+// fungsi cin.ignore () digunakan untuk mengabaikan atau menghapus satu atau lebih karakter dari buffer input.
+// \n gunanya untuk membuat line baru
+// return 0 digunakan untuk memberitahu bahwa kode telah selesai di esekusi dengan exit code 0.
