@@ -35,7 +35,7 @@ int main()
 // string sebenarnya merupakan penggunaan tipe data char secara berkelompok menjadikan sebuah kata atau kalimat
 // kita menggunakan string pada variabel nama dikarenakan, huruf hanya bisa digunakan pada string
 // using namespace std bertugas untuk meminimalisir kesalahan akbiat tidak dikenalinya fungsi cout dan cin apabila dalam penulisan secara langsung. 
-// int main() adalah fungsi utama sebagai starting point untuk program c/c++,
+// int main() adalah fungsi utama sebagai starting point untuk program c/c++
 // kita menggunakan integer pada variabel umur dikarenakan, umur digunakan dengan integer
 // kita menggunakan string pada variabel lahir dikarenakan, huruf hanya bisa digunakan pada string
 // kita menggunakan float pada variabel berat dikarenakan, angka pada berat detil sehingga diperlukan angka dengan komaan
