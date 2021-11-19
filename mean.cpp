@@ -63,12 +63,12 @@ int main()
 
 // iostream merupakan singkatan dari Input/Output Stream. biasanya juga disingkat sbg I/O Stream.
 // string sebenarnya merupakan penggunaan tipe data char secara berkelompok menjadikan sebuah kata atau kalimat.
-// kita menggunakan string pada variabel nama dikarenakan, huruf hanya bisa digunakan pada string.
 // using namespace std bertugas untuk meminimalisir kesalahan akbiat tidak dikenalinya fungsi cout dan cin apabila dalam penulisan secara langsung. 
 // int main() adalah fungsi utama sebagai starting point untuk program c/c++.
-// kita menggunakan integer pada variabel umur dikarenakan, umur digunakan dengan integer.
-// kita menggunakan string pada variabel lahir dikarenakan, huruf hanya bisa digunakan pada string.
-// kita menggunakan float pada variabel berat dikarenakan, angka pada berat detil sehingga diperlukan angka dengan komaan.
+// kita menggunakan string pada variabel nama dikarenakan, kata hanya bisa digunakan pada string.
+// kita menggunakan float pada variabel nilai1,2,3 dan ratarata dikarenakan, angka pada nilai dan rata-rata detil sehingga diperlukan angka dengan komaan.
+// kita menggunakan uint64_t pada variabel NIM dikarenakan, angka pada nim contoh: 210401010006 menggunakan banyak bit (64 bits), sehingga kita panggil uint64_t.
+// kita menggunakan char pada variabel grade dikarenakan, grade hanya memerlukan satu huruf, sehingga cukup char saja dipanggil, tanpa string.
 // Fungsi cout adalah fungsi standar pada C++ untuk menampilkan output ke layar.
 // Fungsi cin adalah fungsi standar pada C++ untuk melakukan input ke layar.
 // solusi untuk menginput lebih dari satu kata (menggunakan spasi), dapat di gunakan perintah getline ().
@@ -82,3 +82,8 @@ int main()
 // <= untuk melakukan kondisi kurang dari sama dengan.
 // < untuk melakukan kondisi kurang dari.
 // return 0 digunakan untuk memberitahu bahwa kode telah selesai di esekusi dengan exit code 0.
+
+// output:
+// Nilai Mahasiswa atas nama Khasbullah Nukman Zakin dengan NIM 210401010006
+// Rata-rata adalah : 77.9667
+// Grade: B
