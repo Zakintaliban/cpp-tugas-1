@@ -56,6 +56,9 @@ int main()
 // Masukan berat badan:59.5
 
 // nama anda: B. J. Habibie
+
 // umur anda: 62 Tahun
+
 // Tempat Lahir: Pare Pare
+
 // berat badan: 59.5 KG
