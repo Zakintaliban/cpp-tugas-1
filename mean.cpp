@@ -76,8 +76,8 @@ int main()
 // \n gunanya untuk membuat line baru.
 // + digunakan untuk melakukan operasi tambah.
 // / digunakan untuk melakukan operasi bagi.
-// Jika kondisi (if) yang diperiksa bernilai benar atau terpenuhi maka pernyataan pertama yang dilaksanakan.
 // && menunjukkan dimana dua kondisi atau lebih harus benar, tidak boleh ada salah satu yang salah.
+// Jika kondisi (if) yang diperiksa bernilai benar atau terpenuhi maka pernyataan pertama yang dilaksanakan.
 // dan jika kondisi yang diperiksa bernilai salah maka pernyataan yang kedua else if() akan dilaksanakan, dan begitu seterusnya, hingga kondisi terakhir, yaitu else().
 // >= untuk melakukan kondisi lebih dari sama dengan.
 // <= untuk melakukan kondisi kurang dari sama dengan.
